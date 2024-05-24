@@ -30,8 +30,8 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımlar gereklidir:
 3. **Proje dizininde gerekli klasörleri oluşturun ve başlangıç dosyalarını hazırlayın:**
     ```bash
     mkdir -p data
-    echo "[]" > data/words.json
-    echo "[]" > data/users.json
+    data/words.json
+    data/users.json
     ```
 
 ## Kullanım
