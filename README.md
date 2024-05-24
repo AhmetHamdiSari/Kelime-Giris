@@ -17,7 +17,7 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımlar gereklidir:
 
 ## Kurulum
 
-1. **Depoyu klonlayın:**
+1. **Klonlayın:**
     ```bash
     git clone https://github.com/kullanici/flask-kelime-yonetim.git
     cd flask-kelime-yonetim
@@ -56,23 +56,23 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımlar gereklidir:
 
 ## Dosya Yapısı
 
-- `app.py`: Ana Flask uygulaması.
-- `templates/`: HTML şablonları.
-  - `index.html`: Ana sayfa şablonu.
-  - `login.html`: Giriş sayfası şablonu.
-  - `register.html`: Kayıt sayfası şablonu.
-  - `add_word.html`: Kelime ekleme sayfası şablonu.
-  - `forgot_password.html`: Şifre sıfırlama sayfası şablonu.
-- `data/`: JSON veritabanı dosyalarını içerir.
-  - `words.json`: Kelime ve tanımları saklar.
-  - `users.json`: Kullanıcı bilgilerini saklar.
+- `app.py`: Ana Flask uygulaması
+- `templates/`: HTML şablonları
+  - `index.html`: Ana sayfa
+  - `login.html`: Giriş sayfası
+  - `register.html`: Kayıt sayfası
+  - `add_word.html`: Kelime ekleme sayfası
+  - `forgot_password.html`: Şifre sıfırlama sayfası
+- `data/`: JSON veritabanı dosyaları
+  - `words.json`: Kelime ve tanımları
+  - `users.json`: Kullanıcı bilgileri
 
 ## Geliştirme
 
-- Uygulamanın geliştirilmesi için yeni özellikler ekleyebilir, mevcut kodu iyileştirebilir ve hata düzeltmeleri yapabilirsiniz.
+- Uygulamanın geliştirilmesi için yeni özellikler ekleyebilir, mevcut kodu iyileştirebilir ve hata düzeltmeleri yapılabilir.
 - `app.py` ve `templates` dizinindeki dosyaları düzenleyerek uygulamanın işlevselliğini genişletebilirsiniz.
 
 ## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+Bu projenin lisansı yoktur. Ücretsiz kullanıma sahiptir.
 
