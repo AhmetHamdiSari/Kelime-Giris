@@ -6,7 +6,7 @@ Bu proje, kullanıcıların kelimeler ve tanımlarını yönetmesine olanak tan�
 
 - Kullanıcı kaydı ve girişi
 - Kelime ekleme ve listeleme
-- Şifre unutma (placeholder)
+- Şifremi unuttum
 
 ## Gereksinimler
 
