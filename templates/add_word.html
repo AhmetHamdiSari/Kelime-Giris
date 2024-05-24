@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kelime Ekle</title>
+</head>
+<body>
+    <h1>Kelime Ekle</h1>
+    <form method="post">
+        <label for="word">Kelime:</label>
+        <input type="text" id="word" name="word" required><br>
+        <label for="definition">Açıklama:</label>
+        <input type="text" id="definition" name="definition" required><br>
+        <button type="submit">Ekle</button>
+    </form>
+    <a href="{{ url_for('index') }}">Kelime Listesine Geri Dön</a>
+</body>
+</html>

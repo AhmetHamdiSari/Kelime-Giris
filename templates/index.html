@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kelime Listesi</title>
+</head>
+<body>
+    <h1>Kelime Listesi</h1>
+    <ul>
+        {% for word in words %}
+            <li>{{ word.word }}: {{ word.definition }}</li>
+        {% endfor %}
+    </ul>
+    <a href="{{ url_for('add_word') }}">Kelime Ekle</a>
+    <a href="{{ url_for('logout') }}">Çıkış Yap</a>
+</body>
+</html>

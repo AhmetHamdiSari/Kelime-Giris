@@ -1,0 +1,23 @@
+Elbette, bir Scrum tablosu oluşturarak bu projenin geliştirilme sürecini izlemek mümkündür. Temel bir Scrum tablosu oluşturmak için aşağıdaki adımları izleyebiliriz:
+
+Görevlerin Belirlenmesi:
+
+Öncelikle, projenin tüm görevlerini belirlememiz gerekiyor. Bu görevler, kullanıcı kaydı, girişi, kelime ekleme, kelime listeleme gibi işlevsellikleri içerebilir.
+Görevlerin Önceliklendirilmesi:
+
+Görevleri önceliklendirerek hangi işlevlerin önce tamamlanması gerektiğini belirleyebiliriz. Örneğin, kullanıcı girişi ve kaydı, temel işlevsellik olduğu için öncelikli olabilir.
+Görevlerin Tahmini Süreleri:
+
+Her görev için tahmini bir süre belirleyerek işlerin ne kadar zamanda tamamlanabileceğini tahmin edebiliriz. Bu, geliştirme sürecini planlamak için önemlidir.
+Takım Üyelerinin Atanması:
+
+Her göreve hangi takım üyelerinin çalışacağını belirleyerek sorumlulukları netleştirebiliriz.
+İlerleme İzleme:
+
+Görevlerin tamamlanma durumunu izleyerek gerçek ilerlemeyi takip edebiliriz. Tamamlanan görevleri işaretleyerek ne kadar ilerlediğimizi görebiliriz.
+Gerektiğinde Revizyon Yapma:
+
+Proje ilerledikçe, görevlerin öncelikleri veya tahmini süreleri değişebilir. Bu durumda, Scrum tablosunu güncelleyerek yeni planlamalar yapabiliriz.
+Bir Scrum tablosu oluşturmak için çeşitli araçlar ve platformlar kullanılabilir. Örneğin, fiziksel bir panoda post-it notları kullanabilir veya çevrimiçi araçlar ve yazılımlar kullanarak dijital bir Scrum tablosu oluşturabilirsiniz. Trello, Jira, Asana gibi araçlar bu amaç için yaygın olarak kullanılan çevrimiçi platformlardır.
+
+Bu adımları takip ederek, projenin geliştirilme sürecini düzenlemek ve izlemek için etkili bir Scrum tablosu oluşturabilirsiniz.
