@@ -19,7 +19,6 @@ Bu projeyi çalıştırmak için aşağıdaki yazılımlar gereklidir:
 
 1. **Klonlayın:**
     ```bash
-    git clone https://github.com/kullanici/flask-kelime-yonetim.git
     cd flask-kelime-yonetim
     ```
 
